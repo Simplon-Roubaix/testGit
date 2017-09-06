@@ -1,4 +1,6 @@
 <?php 
+echo "salut";
+echo"yeyeye";
 
 echo "salut les louloutes !";
 echo"test";
