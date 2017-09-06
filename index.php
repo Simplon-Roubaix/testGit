@@ -1,9 +1,9 @@
 <?php 
 
-echo "oups ! un conflit...";
+echo "Un conflit...";
 
 echo "salut les louloutes !";
-echo"test";
+echo"toto";
 echo "c'est du beau";
 echo "le php ça trou le cul";
 ?>
